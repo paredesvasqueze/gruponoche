@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\clasesesemana5\\gruponoche\\",
+  "WorkspaceRootPath": "C:\\Users\\PC2011\\Desktop\\clase5\\gruponoche\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4FF24A76-73C4-46BF-B558-B6CCDAB8063D}|MiAPI\\MiAPI.csproj|d:\\clasesesemana5\\gruponoche\\miapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4FF24A76-73C4-46BF-B558-B6CCDAB8063D}|MiAPI\\MiAPI.csproj|c:\\users\\pc2011\\desktop\\clase5\\gruponoche\\miapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4FF24A76-73C4-46BF-B558-B6CCDAB8063D}|MiAPI\\MiAPI.csproj|solutionrelative:miapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4FF24A76-73C4-46BF-B558-B6CCDAB8063D}|MiAPI\\MiAPI.csproj|d:\\clasesesemana5\\gruponoche\\miapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4FF24A76-73C4-46BF-B558-B6CCDAB8063D}|MiAPI\\MiAPI.csproj|c:\\users\\pc2011\\desktop\\clase5\\gruponoche\\miapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4FF24A76-73C4-46BF-B558-B6CCDAB8063D}|MiAPI\\MiAPI.csproj|solutionrelative:miapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "D:\\clasesesemana5\\gruponoche\\MiAPI\\Controllers\\WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\PC2011\\Desktop\\clase5\\gruponoche\\MiAPI\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "MiAPI\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "D:\\clasesesemana5\\gruponoche\\MiAPI\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\PC2011\\Desktop\\clase5\\gruponoche\\MiAPI\\Controllers\\WeatherForecastController.cs",
               "RelativeToolTip": "MiAPI\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAA2wBoAAAAcAAAAAAAAAA==",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwBIAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-24T23:16:03.865Z",
               "EditorCaption": ""
@@ -37,9 +37,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "WeatherForecast.cs",
-              "DocumentMoniker": "D:\\clasesesemana5\\gruponoche\\MiAPI\\WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\PC2011\\Desktop\\clase5\\gruponoche\\MiAPI\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "MiAPI\\WeatherForecast.cs",
-              "ToolTip": "D:\\clasesesemana5\\gruponoche\\MiAPI\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\PC2011\\Desktop\\clase5\\gruponoche\\MiAPI\\WeatherForecast.cs",
               "RelativeToolTip": "MiAPI\\WeatherForecast.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
